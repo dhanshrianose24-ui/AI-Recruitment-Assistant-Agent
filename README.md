@@ -1,6 +1,6 @@
-# 🤖 AI-Based Recruitment Assistant Agent
+# AI-Based Recruitment Assistant Agent
 
-## 📌 Project Overview
+##  Project Overview
 
 AI-Based Recruitment Assistant Agent is an AI-powered recruitment support application that helps recruiters analyze candidate resumes and compare them with job descriptions.
 
@@ -8,7 +8,7 @@ The system extracts resume information, identifies relevant skills, performs ski
 
 The system is designed as a decision-support tool. Final recruitment decisions remain with human recruiters.
 
-## 🚀 Features
+##  Features
 
 - Resume PDF upload
 - Resume text extraction
@@ -22,7 +22,7 @@ The system is designed as a decision-support tool. Final recruitment decisions r
 - AI Recruiter Assistant
 - Recruitment Insights Dashboard
 
-## 🧠 AI Technology
+##  AI Technology
 
 The project uses:
 
@@ -34,7 +34,7 @@ The project uses:
 - Cosine similarity
 - PyPDF
 
-## 🔄 System Workflow
+##  System Workflow
 
 Resume PDF
 ↓
